@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XiaoJi</string>
+    <string name="bt_name1">+</string>
+    <string name="bt_name2">-</string>
+    <string name="rd1">衣</string>
+    <string name="rd2">食</string>
+    <string name="rd3">住</string>
+    <string name="rd4">行</string>
+</resources>
