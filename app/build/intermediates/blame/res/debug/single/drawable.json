@@ -40,6 +40,10 @@
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
     },
@@ -64,12 +68,20 @@
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/drawable/duihuakuangyou.9.png",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/drawable/duihuakuangyou.9.png"
+    },
+    {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/drawable/duihuakuangzuo.9.png",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/drawable/duihuakuangzuo.9.png"
     },
     {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
@@ -102,5 +114,9 @@
     {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/drawable/ic.png",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/drawable/ic.png"
     }
 ]

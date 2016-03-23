@@ -21,6 +21,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.cat.xiaoji.activity2" >
+        </activity>
+        <activity android:name="com.example.cat.xiaoji.mytitle" >
+        </activity>
+        <activity android:name="com.example.cat.xiaoji.mylistview" >
+        </activity>
+        <activity android:name="com.example.cat.xiaoji.duihuakuang" />
     </application>
 
 </manifest>

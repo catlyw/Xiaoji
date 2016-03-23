@@ -24,6 +24,10 @@
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/activity2.xml",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/layout/activity2.xml"
+    },
+    {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -40,6 +44,10 @@
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/mytitle.xml",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/layout/mytitle.xml"
+    },
+    {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_simple.xml"
     },
@@ -52,6 +60,10 @@
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/mylistview.xml",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/layout/mylistview.xml"
+    },
+    {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_big_media.xml"
     },
@@ -62,6 +74,10 @@
     {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/duihuakuang.xml",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/layout/duihuakuang.xml"
     },
     {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
@@ -82,6 +98,10 @@
     {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/fruit_item.xml",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/layout/fruit_item.xml"
     },
     {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -122,6 +142,10 @@
     {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/msg_item.xml",
+        "source": "/home/cat/AndroidStudioProjects/XiaoJi/app/src/main/res/layout/msg_item.xml"
     },
     {
         "merged": "/home/cat/AndroidStudioProjects/XiaoJi/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
